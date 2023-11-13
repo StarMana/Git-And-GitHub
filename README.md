@@ -1,21 +1,8 @@
-# Introduction to Git and GitHub
-
 ## Simple Interest Calculator
-
-
-
-
 # Author: Upkar Lidder (IBM)
 # Addtional Authors:
 # Starmana
 
-# Input:
-# p, principal amount
-# t, time period in years
-# r, annual rate of interest
-
-# Output:
-# simple interest = p*t*r
 
 echo "Enter the principal:"
 read p
